@@ -1,0 +1,70 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+
+
+
+/************* Section css strats here ***************/
+.section{
+  padding: 50px 50px;
+  background-color: white;
+  border-radius: 5px;
+}
+.paymentSection{
+	float: left;
+	width: 80%;
+	min-height: 100px;
+	background-color:#17479E;
+	border-radius: 5px;
+	color:white;
+	border: none;
+    margin-left: 35px;
+    font-size: 20px;
+
+
+}
+.storeSection{
+	float: left;
+	width: 80%;
+	min-height: 100px;
+	background-color:#17479E;
+	border-radius: 5px;
+	color:white;
+	border: none;
+    margin-left: 35px;
+    font-size: 20px;
+}
+
+.paybtn{
+	padding: 3px 40px;
+}
+.emibtn{
+ padding: 3px 22px;
+ /*background-color: #1e98aa;*/
+}
+
+.storebtn{
+	padding: 3px 55px;
+	color: #5b0505;
+}
+
+/*************** Section css ends here****************/
+
+
+
+
+/*************** Store section css starts here****************/
+
+
+
+
+
+
+/*************** Store section css ends here****************/
+
+
+
+
+
